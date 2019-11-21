@@ -9,6 +9,7 @@ public class HelpPageStepDefinitions extends HelpPage{
 	@And ("^i want to start shopping$")
 	public void stat_Shopping () {
 		start_shoppingHelp();
+		System.out.println("Nw change");
 	}
 
 }
