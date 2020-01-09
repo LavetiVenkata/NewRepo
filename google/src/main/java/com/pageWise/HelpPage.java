@@ -12,6 +12,8 @@ public class HelpPage extends Business_Library {
 		clickButton(start_Shopping);
 	}
 	
-	
+	public static void hiMethid () {
+		System.out.println("hi");
+	}
 
 }
